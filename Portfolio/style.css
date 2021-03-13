@@ -36,7 +36,7 @@ h4 {
 .header {
   height: 380px;
   opacity: 0.9;
-  background: url("img/bg.jpg"), no-repeat;
+  background: url('img/bg.jpg'), no-repeat;
   background-size: cover;
   padding: 2rem 5rem;
   display: flex;
@@ -50,7 +50,7 @@ h4 {
   border-radius: 50%;
   width: 150px;
   height: 150px;
-  background: url(img/avatar.JPG) no-repeat;
+  background: url('img/avatar.JPG') no-repeat;
   background-size: cover;
 }
 
@@ -137,7 +137,7 @@ a.projects__title {
   align-items: center;
   justify-content: space-between;
   opacity: 0.9;
-  background: url("img/bg_footer.jpg");
+  background: url('img/bg_footer.jpg');
   background-size: cover;
   color: #ffffff;
   padding: 20px 50px;
