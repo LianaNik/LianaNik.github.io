@@ -1,0 +1,757 @@
+@media (min-width: 1473px) and (max-width: 1765px) {
+  .menu-items__names {
+    padding: 7px 2.6%; /*15px*/
+  }
+  .menu-items__names:hover {
+    padding: 7px 2.6%;
+  }
+
+  .menu-logo {
+    padding-right: 0.78%; /*10px от 1920*/
+  }
+
+  .menu-city-container {
+    background: url(icons/08.svg) no-repeat center right 5.73%;
+  }
+
+  select.menu-city {
+    padding-left: 5.73%;
+    font-size: 14px;
+  }
+
+  .menu-icons__poisk,
+  .menu-icons__sravnit,
+  .menu-icons__heart {
+    margin-right: 24px;
+  }
+}
+
+@media (min-width: 1318px) and (max-width: 1472px) {
+  .menu-items__names {
+    padding: 5px 1.73%; /*10px*/
+  }
+  .menu-items__names:hover {
+    padding: 5px 1.73%;
+  }
+
+  .menu-logo {
+    padding-right: 0.52%; /*10px от 1920*/
+  }
+
+  .menu-city-container {
+    background: url(icons/08.svg) no-repeat center right 4.73%;
+  }
+
+  select.menu-city {
+    padding-left: 4.73%;
+    font-size: 13px;
+  }
+
+  .menu-icons__poisk,
+  .menu-icons__sravnit,
+  .menu-icons__heart {
+    margin-right: 16px;
+  }
+}
+
+@media (min-width: 1191px) and (max-width: 1317px) {
+  .header {
+    font-size: 13px;
+  }
+
+  .menu-items__names {
+    padding: 5px 1.73%; /*10px*/
+  }
+  .menu-items__names:hover {
+    padding: 5px 1.73%;
+  }
+
+  .menu-items__courses {
+    width: 450px;
+    height: 300px;
+  }
+
+  .menu-items__courses-container {
+    width: 225px; /*половина от ширины menu-items__courses*/
+    height: 300px;
+  }
+
+  .menu-items__courses-overlay {
+    top: 30px;
+  }
+
+  .menu-items__courses {
+    top: 15px;
+  }
+
+  .menu-logo {
+    padding-right: 0.52%; /*10px от 1920*/
+  }
+
+  .menu-city-container {
+    background: url(icons/08.svg) no-repeat center right 3.73%;
+  }
+
+  select.menu-city {
+    padding-left: 3.73%;
+    font-size: 12px;
+  }
+
+  .menu-icons__poisk,
+  .menu-icons__sravnit,
+  .menu-icons__heart {
+    margin-right: 8px;
+  }
+}
+
+@media (min-width: 1100px) and (max-width: 1190px) {
+  .header {
+    font-size: 12px;
+  }
+
+  .menu-items__names {
+    padding: 5px 1.73%; /*10px*/
+  }
+  .menu-items__names:hover {
+    padding: 5px 1.73%;
+  }
+
+  .menu-items__courses {
+    width: 400px;
+    height: 280px;
+    top: 45px;
+  }
+
+  .menu-items__courses-container {
+    width: 200px; /*половина от ширины menu-items__courses*/
+    height: 280px;
+    padding-top: 10px;
+  }
+
+  .menu-items__courses-overlay {
+    top: 30px;
+  }
+
+  .menu-items__courses {
+    top: 15px;
+  }
+
+  .menu-logo {
+    padding-right: 0.52%; /*10px от 1920*/
+  }
+
+  .menu-city-container {
+    background: url("icons/08.svg") no-repeat center right 3.73%;
+  }
+
+  select.menu-city {
+    padding-left: 3.73%;
+    font-size: 11px;
+  }
+
+  .menu-icons__poisk,
+  .menu-icons__sravnit,
+  .menu-icons__heart {
+    margin-right: 8px;
+  }
+}
+
+@media (min-width: 1056px) and (max-width: 1099px) {
+  .header {
+    font-size: 12px;
+  }
+
+  .menu-items__names {
+    padding: 5px 1.73%; /*10px*/
+  }
+  .menu-items__names:hover {
+    padding: 5px 1.73%;
+  }
+
+  .menu-items__courses {
+    width: 400px;
+    height: 280px;
+    top: 35px;
+  }
+
+  .menu-items__courses-container {
+    width: 200px; /*половина от ширины menu-items__courses*/
+    height: 280px;
+    padding-top: 10px;
+  }
+
+  .menu-items__courses-overlay {
+    top: 30px;
+  }
+
+  .menu-items__courses {
+    top: 15px;
+  }
+
+  .menu-logo {
+    padding-right: 0.52%; /*10px от 1920*/
+  }
+
+  .menu-city-container {
+    background: url("icons/08.svg") no-repeat center right 1.73%;
+  }
+
+  select.menu-city {
+    padding-left: 1.73%;
+    font-size: 11px;
+  }
+
+  .menu-icons__poisk,
+  .menu-icons__sravnit,
+  .menu-icons__heart {
+    margin-right: 8px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1055px) {
+  .header {
+    font-size: 11px;
+  }
+
+  .menu-items__names {
+    padding: 5px 1.73%; /*10px*/
+  }
+  .menu-items__names:hover {
+    padding: 5px 1.73%;
+  }
+
+  .menu-items__courses {
+    width: 360px;
+    height: 260px;
+    top: 45px;
+  }
+
+  .menu-items__courses-container {
+    width: 180px; /*половина от ширины menu-items__courses*/
+    height: 260px;
+    padding-top: 5px;
+  }
+
+  .menu-items__courses-overlay {
+    top: 27px;
+  }
+
+  .menu-items__courses {
+    top: 12px;
+  }
+
+  .menu-items__courses-button {
+    margin-top: 15px;
+  }
+
+  .menu-logo {
+    padding-right: 0.52%; /*10px от 1920*/
+  }
+
+  .menu-city-container {
+    background: url("icons/08.svg") no-repeat center right 2.73%;
+  }
+
+  select.menu-city {
+    padding-left: 2.73%;
+    font-size: 10px;
+  }
+
+  .menu-icons__poisk,
+  .menu-icons__sravnit,
+  .menu-icons__heart {
+    margin-right: 8px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .menu-items,
+  .menu-login {
+    display: none;
+  }
+
+  .menu-open__items {
+    top: 35px;
+  }
+
+  .menu-open__stripes {
+    display: block;
+  }
+
+  .header {
+    height: 60px;
+  }
+
+  .menu-open__items {
+    height: 100vh;
+  }
+
+  .menu-open__bigdown {
+    width: 8px;
+  }
+
+  .bottom_card_img_near_other_course_about_item {
+    font-size: 13px;
+    margin-bottom: 5px;
+  }
+
+  .bottom_card_img_near_other_course_title a {
+    font-size: 18px;
+  }
+
+  .bottom_card_img_near_other_course_pricing_money_start,
+  .bottom_card_img_near_other_course_pricing_money_new {
+    font-size: 24px;
+  }
+
+  .bottom_card_img_near_other_course_pricing_money_old {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 501px) and (max-width: 991px) {
+  .menu-open {
+    width: 12.5%; /*45px от 360px шаблон*/
+    justify-content: center;
+    padding-right: 0;
+  }
+
+  .menu-logo {
+    justify-content: center;
+    width: 66.31%;
+    padding-right: 0;
+  }
+
+  .menu-logo__pic {
+    width: 140px;
+    height: 22px;
+  }
+
+  .menu-icons {
+    display: flex;
+    width: 21.19%;
+    justify-content: flex-end;
+    padding-right: 4.34%;
+  }
+  .menu-icons__icon {
+    padding-right: 6.15%; /*8px от 360*36,11%*/
+    padding-left: 6.15%;
+  }
+
+  .menu-icons__poisk,
+  .menu-icons__sravnit,
+  .menu-icons__heart {
+    margin-right: 0;
+  }
+}
+
+@media (min-width: 343px) and (max-width: 500px) {
+  .menu-open {
+    width: 12.5%; /*45px от 360px шаблон*/
+    justify-content: center;
+    padding-right: 0;
+  }
+
+  .menu-logo {
+    justify-content: flex-start;
+    width: 51.39%; /*185px от 360px шаблон*/
+    padding-left: 2.7%; /*10px от 360px по шаблону*/
+    padding-right: 0;
+  }
+
+  .menu-logo__pic {
+    width: 140px;
+    height: 22px;
+  }
+
+  .menu-icons {
+    width: 36.11%;
+  }
+  .menu-icons__icon {
+    padding-right: 6.15%; /*8px от 360*36,11%*/
+    padding-left: 6.15%;
+  }
+
+  .menu-icons__poisk,
+  .menu-icons__sravnit,
+  .menu-icons__heart {
+    margin-right: 0;
+  }
+}
+
+@media screen and (max-width: 342px) {
+  .menu-open {
+    width: 12.5%; /*45px от 360px шаблон*/
+    justify-content: center;
+    padding-right: 0;
+  }
+
+  .menu-logo {
+    justify-content: flex-start;
+    width: 51.39%; /*185px от 360px шаблон*/
+    padding-left: 2.7%; /*10px от 360px по шаблону*/
+    padding-right: 0;
+  }
+
+  .menu-logo__pic {
+    width: 140px;
+    height: 22px;
+  }
+
+  .menu-icons {
+    width: 36.11%;
+  }
+  .menu-icons__icon {
+    padding-right: 4.95%;
+    padding-left: 4.95%;
+  }
+
+  .menu-icons__poisk,
+  .menu-icons__sravnit,
+  .menu-icons__heart {
+    margin-right: 0;
+  }
+}
+
+@media screen and (max-width: 1199px) {
+  section#main_info_of_course_card,
+  section#main_content_card_of_course_txt,
+  .testimonials_into_card_course_page {
+    flex-flow: wrap;
+  }
+  .middle_stack_gap_for_flex,
+  .middle_content_card_of_course {
+    display: none;
+  }
+  .left_main_info_of_course_card,
+  .right_main_info_of_course_card,
+  .text_content_card_of_course,
+  .testimonial_published,
+  .testimonial_write {
+    width: 100%;
+  }
+  .main_slider_of_main_info_course_card,
+  .navigation_of_main_info_course_card_slider {
+    max-width: 780px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .commerc_info_into_card_course_date_start_actual {
+    text-align: center;
+  }
+  .banner_content_card_of_course {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+  }
+  .info_txt_card_course_page_bold {
+    width: 35% !important;
+  }
+  .info_txt_card_course_page_normal {
+    width: 65% !important;
+  }
+  .left_col_with_contacts_on_page_card_course {
+    width: auto;
+    max-width: 40%;
+  }
+  .other_near_card_course_on_page_down_slider .slick-list {
+    margin: 0;
+    width: 100%;
+  }
+
+  .elipses__ellips1,
+  .elipses__ellips2 {
+    display: none;
+  }
+
+  .elipses__ellips1_mobile,
+  .elipses__ellips2_mobile {
+    display: flex;
+  }
+
+  .title_descr_course_card {
+    text-align: center;
+  }
+
+  .elipses,
+  .rating_card_course {
+    display: flex;
+    justify-content: center;
+  }
+
+  .info_block_about_course_on_card,
+  .comerc_info_into_card_course_settings,
+  .commerc_info_into_card_course_order_online_mobile,
+  .shared_card_course {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .commerc_info_into_card_course_date_start_actual {
+    margin-top: 25px;
+  }
+
+  .share_info_card_course {
+    margin: 20px 0;
+  }
+
+  .shared_card_course {
+    margin-bottom: 0px;
+  }
+
+  #main_content_card_of_course_down_page {
+    margin-top: 70px;
+  }
+  #main_info_of_course_card {
+    margin-bottom: 0px;
+  }
+
+  h2.content_title_card_course_into {
+    text-align: center;
+    margin-bottom: 25px;
+  }
+  .text_content_for_title {
+    margin-bottom: 70px;
+  }
+  .near_other_card_course_on_page_down_item__button {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .testimonial_published__button {
+    display: flex;
+  }
+  .testimonials_button_send {
+    width: 40%;
+  }
+}
+@media screen and (max-width: 992px) {
+  .menu-open__items {
+    top: 35px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .mobile_banners {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+  }
+  .megabanner {
+    margin: -100px 0;
+  }
+  .contacts_on_page_down_card_course {
+    flex-flow: wrap;
+  }
+  .left_col_with_contacts_on_page_card_course,
+  .right_col_with_map_on_page_card_course {
+    width: 100%;
+    max-width: 100%;
+  }
+  .contacts_in_page_card_course_info_txt > div {
+    width: 50% !important;
+  }
+  .left_col_with_contacts_on_page_card_course {
+    margin-bottom: 100px;
+  }
+
+  .bottom_card_img_near_other_course {
+    padding: 18px;
+  }
+
+  .bottom_card_img_near_other_course_pricing_money_start,
+  .bottom_card_img_near_other_course_pricing_money_new {
+    font-size: 20px;
+  }
+
+  .bottom_card_img_near_other_course_pricing_money_old {
+    font-size: 16px;
+    margin-right: 5px;
+  }
+
+  .bottom_card_img_near_other_course_pricing_buttons a:first-child {
+    margin-right: 0;
+  }
+
+  .bottom_card_img_near_other_course_about_item {
+    font-size: 12px;
+  }
+}
+@media screen and (max-width: 575px) {
+  .info_block_about_course_on_card {
+    width: 100%;
+  }
+  .commerc_info_into_card_course {
+    flex-flow: wrap;
+  }
+  .comerc_info_into_card_course_settings {
+    width: 50%;
+    justify-content: space-evenly;
+  }
+  .comerc_info_into_card_course_settings {
+    order: 2;
+  }
+  .commerc_info_into_card_course_order_online {
+    width: 70%;
+    margin: 0 15%;
+    order: 3;
+  }
+  .commerc_info_into_card_course > div {
+    margin-bottom: 20px;
+  }
+  .left_col_with_contacts_on_page_card_course {
+    margin-bottom: 55px;
+  }
+  .contacts_on_page__button {
+    display: block;
+  }
+  .testimonial_published__button {
+    width: 40%;
+  }
+  .near_other_card_course_on_page_down_item__button_mobile {
+    width: 50% !important;
+  }
+
+  .near_other_card_course_on_page_down_item-container {
+    flex-flow: column wrap;
+  }
+
+  .near_other_card_course_on_page_down_item {
+    width: 98%;
+  }
+
+  .top_card_img_near_other_course {
+    height: 250px;
+    overflow-y: hidden;
+  }
+
+  .bottom_card_img_near_other_course {
+    padding: 15px;
+  }
+
+  .bottom_card_img_near_other_course {
+    height: 200px;
+  }
+
+  .bottom_card_img_near_other_course_pricing_money_old {
+    margin-right: 10px;
+  }
+
+  .bottom_card_img_near_other_course_pricing_buttons a:first-child {
+    margin-right: 10px;
+  }
+
+  .container__footer_grid_links a, .copyright_beauticana_ru {
+    font-size: 14px;
+  }
+
+  .footer_no_grid_logotype {
+      margin: 50px 0;
+  }
+
+  .footer_grid_links {
+      padding-bottom: 25px;
+  }
+
+  .footer_socials_media_icons_links > a > svg {
+    width: 30px;
+    height: 30px;
+}
+}
+
+@media screen and (max-width: 870px) {
+  .near_other_card_course_on_page_down_item__button_mobile {
+    display: block;
+    width: 33%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .near_other_card_course_on_page_down_item__button_mobile a {
+    display: block;
+  }
+  .near_other_card_course_on_page_down_item__button a {
+    display: none;
+  }
+  .near_other_card_course_on_page_down_item__button {
+    display: none;
+  }
+  .mobile_banners {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  #slider_bottom {
+    display: none;
+  }
+  #contacts_on_page_card_of_course {
+    margin-bottom: 55px;
+  }
+  .testimonials_button_send {
+    width: 100%;
+  }
+  .testimonial_published__button {
+    width: 60%;
+  }
+  .near_other_card_course_on_page_down_item__button_mobile {
+    width: 60%;
+  }
+
+  .top_card_img_near_other_course {
+    height: 200px;
+  }
+
+  .container__footer_grid_links a, .copyright_beauticana_ru {
+    font-size: 13px;
+  }
+
+  .footer_no_grid_logotype {
+    margin: 30px 0;
+}
+
+.footer_socials_media_icons_links > a > svg {
+    width: 24px;
+    height: 24px;
+}
+
+}
+
+@media screen and (max-width: 400px) {
+  h1.title_descr_course_card {
+    font-size: 25px;
+  }
+  .testimonial_published__button,
+  .contacts_on_page__button {
+    width: 100%;
+  }
+  .rate_for_course_by_person img {
+    width: 10%;
+  }
+  .star_rating_for_testimonial_send img {
+    width: 25px;
+    height: 25px;
+  }
+  .near_other_card_course_on_page_down_item__button_mobile {
+    width: 100% !important;
+  }
+  .text_descr_info_block_into {
+    font-size: 12px;
+  }
+
+  .bottom_card_img_near_other_course {
+    padding: 12px;
+  }
+
+  .bottom_card_img_near_other_course_pricing_money_old {
+    margin-right: 5px;
+  }
+
+  .bottom_card_img_near_other_course_pricing_buttons a:first-child {
+    margin-right: 0;
+  }
+
+  .container__footer_grid_links a, .copyright_beauticana_ru {
+    font-size: 12px;
+  }
+}
