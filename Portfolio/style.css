@@ -77,10 +77,10 @@ h4 {
   grid-gap: 3em;
 }
 .projects__example {
-  height: 265px;
+  height: auto;
   display: flex;
   flex-flow: column wrap;
-  justify-content: space-between;
+  /*justify-content: space-between;*/
   align-items: center;
 }
 
@@ -130,6 +130,7 @@ a.projects__title {
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
   color: rgba(18, 25, 32, 1);
+  margin-top: 15px;
 }
 /*section work END*/
 .footer {
