@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="60px" height="60px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 600003 600003"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:white;fill-rule:nonzero}
+    .fil0 {fill:url(#id0)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="300000" y1="0" x2="300000" y2="600003">
+   <stop offset="0" style="stop-opacity:1; stop-color:#A655E8"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#8651E7"/>
+  </linearGradient>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M600003 300000l0 3c0,165002 -134998,300000 -300000,300000l-3 0c-165002,0 -300000,-134998 -300000,-300000l0 -3c0,-165002 134998,-300000 300000,-300000l3 0c165002,0 300000,134998 300000,300000z"/>
+  <polygon class="fil1" points="221012,365506 299997,286518 378988,365506 405001,339492 299991,234491 194999,339492 "/>
+ </g>
+</svg>
